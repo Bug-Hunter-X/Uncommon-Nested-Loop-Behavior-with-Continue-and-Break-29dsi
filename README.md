@@ -1,0 +1,1 @@
+This repository contains a Java program that exhibits an unusual behavior due to the interaction between nested loops, "continue", and "break" statements. The main program, UncommonBug.java, demonstrates the bug.  The solution, UncommonBugSolution.java, provides a corrected version with explanations of the issue and its fix.
